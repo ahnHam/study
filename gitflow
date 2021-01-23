@@ -1,0 +1,12 @@
+develop 개발 진행
+새로운 기능을 만들때 새로운 브랜치를 만들어서 진행 (feature)
+다시 develop 로 가져온다
+버그, 문서, 간단한  수정은  develop 에서
+release 브런치내용은 master 로도 사용하고 develop으로도 가는것
+hotfixes 긴급하게 문제 해결하기 위함
+
+feature 기능 추가
+develop
+release
+hotfixes
+master
